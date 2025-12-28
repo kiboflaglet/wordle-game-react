@@ -54,6 +54,8 @@ Most of the gameplay follows the original Wordle rules, with a few implementatio
 
 ##  Word Source
 
+[text](https://github.com/darkermango/5-Letter-words/blob/main/words.txt)
+
 Words are loaded from a simple text file:
 
 ```public/words.txt```
