@@ -112,7 +112,6 @@ function App() {
           .map(w => w.trim())
 
         const randomWord = words[Math.floor(Math.random() * words.length)]
-        console.log({randomWord})
         setCorrectWord(randomWord.toLowerCase())
         setLoading(false)
       })
