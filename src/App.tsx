@@ -1,5 +1,5 @@
 import type { KeyboardEvent } from "react";
-import { useEffect, useRef, useState, useTransition } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
 const GUESS_COUNT = 6;
 const WORD_LENGTH = 5;
